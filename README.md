@@ -257,9 +257,3 @@ For GPP, the target component of these names changes automatically.
 If you use this code, cite the associated manuscript:
 
 > Al Safadi, K. *MetaL-MCF: An Interpretable and Scalable Meta-Learning Framework for Modeling Global Mangrove Carbon Flux*. Manuscript.
-
-Add the final journal citation, manuscript DOI, and supplementary-data DOI here when available. `CITATION.cff` provides software citation metadata for GitHub.
-
-## License
-
-No license was specified with the source code, so no license file is included. Add an appropriate `LICENSE` file before public release if you intend to permit reuse, modification, or redistribution.
